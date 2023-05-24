@@ -12,6 +12,7 @@ namespace Constructores
         public int Y { get; set; }
 
         // El constructor tiene el nombre de la clase
+        //Siempre tiene que existir un constructor por defecto
         public Punto()
         {
             X = 0;
